@@ -1,44 +1,29 @@
-SQL Solutions and Notes
-This repository contains my solutions to various SQL problems, covering fundamental and advanced topics. Each folder contains problems and solutions from different SQL concepts that I have worked on.
+# 📊 SQL Solutions & Notes
 
-It is regularly updated with new problems and solutions from platforms like HackerRank, LeetCode, StrataScratch, and other SQL learning platforms.
+A collection of my SQL solutions from various platforms, categorized by topic and difficulty. I update this regularly as I solve new challenges.
 
-📚 Contents
-🏆 Platform-Based Problems
-HackerRank Problems Solutions to SQL problems from HackerRank, ranging from Basic Select to Advanced Joins.
+---
 
-LeetCode Problems Solutions to SQL problems from LeetCode, focusing on building problem-solving skills and mastering database algorithms.
+## 🚀 Quick Links
 
-StrataScratch Problems Solutions to SQL problems from the StrataScratch platform, focusing on real-world data science interview questions.
+### 🏆 By Platform
+* [**LeetCode**](./LeetCode) – 50+ Solutions (including SQL 50).
+* [**HackerRank**](./HackerRank) – Basic to Advanced challenges.
+* [**StrataScratch**](./StrataScratch) – Data Science interview questions.
 
-🛠️ Concept-Based Solutions
-SQL Basics Fundamental queries and operations like SELECT, WHERE, and basic filtering.
+### 🛠️ By Concept
+* **Basics:** `SELECT`, `WHERE`, `ORDER BY`.
+* **Joins:** `INNER`, `LEFT`, `FULL` joins.
+* **Aggregations:** `GROUP BY`, `HAVING`, `SUM`, `AVG`.
+* **Advanced:** `CTEs`, `Window Functions` (`RANK`, `LEAD/LAG`).
+* **Data Cleaning:** Handling `NULLs`, `CAST`, and `Strings`.
 
-SQL Data Cleaning Techniques for cleaning, formatting, and transforming raw data into analysis-ready formats.
+---
 
-SQL Joins Comprehensive examples of INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN.
+⭐ If this helps you, please give it a star!
 
-SQL Subqueries & Temporary Tables Solutions involving nested subqueries, Common Table Expressions (CTEs), and temporary tables.
-
-SQL Aggregations Queries using aggregate functions: COUNT, SUM, AVG, MIN, MAX, often paired with GROUP BY.
-
-Stored Procedures Examples of creating and executing stored procedures to automate database tasks.
-
-Window Functions Advanced solutions using RANK, DENSE_RANK, LEAD, LAG, and OVER() for complex analytical queries.
-
-🚀 How to Use
-Clone the repository:
-
-Bash
-git clone https://github.com/codsalah/SQL_Problems_Solutions.git
-Explore: Browse through the folders for different SQL topics and explore the solutions. Each file is named according to the problem for easy navigation.
-
-✨ Feedback & Support
-⭐ Don't forget to star this repository if you find it helpful! ⭐
-
-📬 Contact Me
+## Contact & Support
 If you have any questions, suggestions, or feedback, feel free to reach out:
+* **LinkedIn**: [Ahmed Ali](https://www.linkedin.com/in/ahmed-ali29/)
+* **Email**: [ahmaad.alii.213@gmail.com](mailto:ahmaad.alii.213@gmail.com)
 
-Email: ahmed.ali@example.com (Update with your actual email)
-
-LinkedIn: Ahmed Ali (Update with your link)
