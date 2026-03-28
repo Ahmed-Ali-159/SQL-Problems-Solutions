@@ -1,5 +1,5 @@
 -- Using: Postgres
--------------------
+------------------
 
 -- Here is my second attempt 
 
